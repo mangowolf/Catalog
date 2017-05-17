@@ -1,7 +1,9 @@
-#Intro
+# Intro
+
 This application is designed to house a catalog system for sporting goods. Users can add, edit, and delete categories and items under the catalog system for administrative purposes.
 
-#Instructions to Install and run
+# Instructions to Install and run
+
 Follow the instructions below to get the program up and running as a virtual machine on your local host.
 
 ### Git
